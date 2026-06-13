@@ -1,16 +1,62 @@
-# React + Vite
+# 📱 Responsive User List UI (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **User List Card UI** built using **React JS**.  
+This project displays user information in a clean card layout with buttons and adapts to different screen sizes (desktop & mobile).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ About the Project
 
-## React Compiler
+This project is a practice UI built to learn and improve:
+- React components
+- Props handling
+- Responsive design using CSS
+- Card layout structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+It shows a list of users with their name, email, and action buttons in a modern UI design.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 👤 Display user cards dynamically
+- 📧 Show user email information
+- 🔘 Action buttons for each user
+- 📱 Fully responsive design (Desktop & Mobile)
+- 🎨 Clean and modern UI design
+- ⚛️ Built using React functional components
+
+---
+
+## 🛠️ Tech Stack
+
+- React JS ⚛️
+- HTML5 🧾
+- CSS3 🎨
+- JavaScript ⚡
+
+---
+
+## 📂 Project Structure
+
+src/
+│── components/
+│ └── Card.jsx
+│── App.jsx
+│── App.css
+│── index.js
+
+---
+
+## 📸 UI Preview
+
+👉 The UI includes:
+- Desktop view with multiple user cards in a row
+- Mobile view with stacked user cards
+- Buttons aligned properly for each user
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [SK Suryaa](https://www.linkedin.com/in/sk-suryaa-97ba70340/)
